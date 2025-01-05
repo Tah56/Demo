@@ -1,3 +1,1 @@
 # Demo
-
-Author-Tanzim Ahmed
